@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkashMugate
-Data Analyst Role- 👀 I’m interested in ...
-- 🌱 Data Analysis- I’m currently learning ...
-- 💞️ Data Science Projects-I’m looking to collaborate on ...
+👀 I’m interested in ... Data Science
+- 🌱I’m currently learning ... Data Science
+- 💞️ -I’m looking to collaborate on ... Data Analyst Projects
 - 📫 How to reach me ... akashmugate20@gmail.com
 - 😄 Pronouns: ...(he/him)
 - ⚡ Fun fact: ... I'm an amputee
